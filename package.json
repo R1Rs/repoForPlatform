@@ -1,0 +1,24 @@
+{
+  "name": "repoforplatform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R1Rs/repoForPlatform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R1Rs/repoForPlatform/issues"
+  },
+  "homepage": "https://github.com/R1Rs/repoForPlatform#readme",
+  "dependencies": {
+    "@r1rs/platformnode": "^1.0.0"
+  }
+}
